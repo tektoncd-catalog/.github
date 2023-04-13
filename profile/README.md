@@ -3,3 +3,5 @@
 Cloud Native CI/CD
 
 Learn more at https://tekton.dev/
+
+This Organization is till in work in progress state. Please use the catalog in https://github.com/tektoncd/catalog.
